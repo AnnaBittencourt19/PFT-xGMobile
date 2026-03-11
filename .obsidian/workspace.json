@@ -11,14 +11,10 @@
             "id": "bb46773f347b7c3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estudos por fora/Revisão Python/Sintaxe.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Sintaxe"
+              "title": "Nova aba"
             }
           }
         ]
@@ -183,8 +179,20 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "bb46773f347b7c3a",
+  "active": "5f6491168cf3745e",
   "lastOpenFiles": [
-    "Estudos por fora/Revisão Python/Sintaxe.md"
+    "estudosDiversos/Jeito certo de estudar programação _260310_130316 (1).pdf",
+    "estudosDiversos",
+    "aleatorio/Jeito certo de estudar programação _260310_130316 (1).pdf",
+    "aleatorio",
+    "Artigos (leitura e resenha)",
+    "Metodologia cientifica/Feynman on Scientific Method.md",
+    "Metodologia cientifica",
+    "Revisão Python/Sintaxe.md",
+    "Revisão Python",
+    "Estudos por fora/Revisão Python/Sintaxe.md",
+    "Estudos por fora/Metodologia cientifica/Feynman on Scientific Method.md",
+    "Estudos por fora/Metodologia cientifica",
+    "Sem título.md"
   ]
 }
