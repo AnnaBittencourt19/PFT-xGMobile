@@ -26,4 +26,6 @@ Não gosto muito do Edison prefiro o Nikola Tesla mas essa frase dele cabe ao se
 Gostei muito do Feynman ele é divertido vou procurar mais coisas dele com certeza
 ```
 
+![[Pasted image 20260311170148.png]]
+
 Fonte: [YouTube](https://www.youtube.com/watch?v=EYPapE-3FRw)
