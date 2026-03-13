@@ -1,1 +1,12 @@
-- con
+- As telecomunicações consistem na transmissão, emissão e recepção de sinais (informações de qualquer natureza) por meio de meios de comunicações (fios, rádio, sistemas ópticos ou outros sistemas)
+- Exemplos:
+	- Telefone
+	- Televisão
+	- Internet
+	- Rádio
+	- Comunicações via satélite
+
+- Tipos de sinal: 
+	- Analógico: Varia continuamente ao longo do tempo (geralmente usada pra som e luz). Não é possível regenerar o sinal ao longo do enlace. A qualidade do sinal pode ser degrada (apresentar falhas ou perda de qualidade no destino final)
+	- Digital: Sinal é discreto no tempo, números binários, muito usado na transmissão de dados na internet, permite regenerar o sinal ao longo da cadeia de comunicação. Qualidade do sinal que chega no destino é melhor do que do sinal analogico![[Captura de Tela 2026-03-13 às 11.15.29.png]]
+	- 
