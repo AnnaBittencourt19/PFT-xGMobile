@@ -1,12 +1,71 @@
-- As telecomunicações consistem na transmissão, emissão e recepção de sinais (informações de qualquer natureza) por meio de meios de comunicações (fios, rádio, sistemas ópticos ou outros sistemas)
+- As telecomunicações consistem na transmissão, emissão e recepção de sinais (informações de qualquer natureza) por meio de meios de comunicações (fios, rádio, sistemas ópticos ou outros sistemas). TRANSMITIR INFORMAÇÕES A DISTÂNCIA
 - Exemplos:
 	- Telefone
 	- Televisão
 	- Internet
 	- Rádio
 	- Comunicações via satélite
+- ## Tipos de sinal: 
+	- As informações "viajam" por meio de sinais. Que são eles: 
+		- Analógico: Varia continuamente ao longo do tempo (geralmente usada pra som e luz). Não é possível regenerar o sinal ao longo do enlace (conforme esse sinal é transmitido ele perde a qualidade devido a sua sensibilidade ao ruído, uma vez distorcido não pode ser consertada). A qualidade do sinal pode ser degrada (apresentar falhas ou perda de qualidade no destino final)
+		- Digital: Sinal é discreto no tempo, números binários, muito usado na transmissão de dados na internet, permite regenerar o sinal ao longo da cadeia de comunicação. Qualidade do sinal que chega no destino é melhor do que do sinal analogico (mesmo com ruido o receptor consegue identificar se o sinal era 0 ou 1)
+		![[Captura de Tela 2026-03-13 às 11.15.29.png]]
 
-- Tipos de sinal: 
-	- Analógico: Varia continuamente ao longo do tempo (geralmente usada pra som e luz). Não é possível regenerar o sinal ao longo do enlace. A qualidade do sinal pode ser degrada (apresentar falhas ou perda de qualidade no destino final)
-	- Digital: Sinal é discreto no tempo, números binários, muito usado na transmissão de dados na internet, permite regenerar o sinal ao longo da cadeia de comunicação. Qualidade do sinal que chega no destino é melhor do que do sinal analogico![[Captura de Tela 2026-03-13 às 11.15.29.png]]
-	- 
+- ## Espectro e banda
+	- Espectro de frequência: é um espaço limitado então é necessário que órgãos reguladores (Anatel no Brasil) o controle para que uma rádio não interfira na outra.  (Espectro é o conjunto de todas as sequências de ondas possíveis). Cada serviço tem uma frequência definida pela Anatel para que não haja sinais se "atropelando"
+	- Largura de banda (Bandwidth)(BW): É o tamanho que uma transmissão ocupa (largura de banda = Frequência mais alta - frequência mais baixa). Quanto maior a largura maior é a capacidade de transportar dados. Teorica condições perfeitas, é a medida da faixa de frequência que uma determinada transmissão ocupa dentro do espectro de frequência
+		![[Captura de Tela 2026-03-16 às 17.04.24.png|424]]
+
+- ## Desempenho da rede
+	- Medem a saúde e a velocidade da sua conexão
+	- Latência: Tempo de atraso. Tempo entre o envio e o recebimento de uma mensagem. Quanto menor a latência melhor (soma do atraso da rede e dos componentes usados para comunicação)
+	- Jitter: Variação da latência, se demorou 10ms pra um e 50ms pro outro. Usar buffer (fila de espera) para minimizar jitter
+		- Throughput (Taxa de transmissão): é dado pela quantidade de dados transferidos(bits) / tempo total de transferência (segundos). Quantidade de quantidade de dados que é transmitido por um canal em um canal de comunicação ![[Captura de Tela 2026-03-16 às 17.10.49.png]]
+		- M = 10ˆ6
+		- G = 10ˆ9 
+		- 1 byte equivale a 8 bits (tem que fazer a conversão)
+		```bits/segundos
+		(500*(10ˆ6)*8)/40 = 100Mbps
+		```
+			- 10ˆ6 do Mega e 8 do valor de 1 byte	
+-  Para que uma rede funcione bem, precisamos de um sinal digital (pela qualidade e regeneração) viajando em uma largura de banda adequada , com baixa latência e jitter controlado , garantindo que o Throughputseja alto o suficiente para a aplicação.
+- ## Nível de sinal
+	- É a força (amplitude/potência) do sinal em um ponto da rede 
+	- Unidades comuns: watts (W), milivolts (mV), dB, dBm, etc
+- ## Decibel
+	- Unidade de medida para as variações de potencia. dBW, dBm e dBi (mede o ganho de uma antena em relação a uma antena ideal)
+	- É uma unidade logarítmica usada para expressar relações entre duas grandezas físicas, como potencia ou intensidade de sinal. Em sistemas de comunicação são usados para medir ganho ou perda de sinal, a intensidade de sinal e a relação sinal-ruído 
+
+	- dBW: Decibéis em relação a 1 W (watt), quantos de dB está acima (+) ou abaixo(-) de 1W
+		```
+		pdbw = (10 log10) * (Pw/1W)
+		potencia em decibel = 10 log 10 * (potencia em Watts/ 1)
+		```
+			-Exemplo de 100W:
+			pdbw = 10 log 10 * (100/1) = 20[dBW]
+			
+	- decibel = 10 log 10
+
+	- dBm (decibel-miliwatt): Decibéis em relação a um miliwatt(mW). quantos de dB está acima (+) ou abaixo(-) de 1mW
+		```
+		pdbm = 10 log 10 * (PmW/ 1 * 10ˆ-3W) [dBm]
+		potencia em dBm = 10 log 10 * (Potencia em miliwatts/ 1* 10ˆ-3)
+		```
+		- Muito utilizada em casos de unidades muito pequenas (microondas ou rádio frequência)
+
+	- dBi (decibel isotropic): É uma unidade de medida que expressa o ganho de uma antena em relação a uma antena isotrópica ideal (antena que irradia uniformemente em todas as direções)
+		```
+		GdBi = 10 log 10 * (G/Gis) [dBi]
+		Onde:
+		GdBi é o ganho de uma antena em dBi, G é o ganho REAL da antenna e Gis é ganho da antenna isotrópica (Gis é sempre 1)
+		```
+## Operações em decibel 
+ - Operações com log: 
+	 - Log (A x B) = Log(A) + Log(B)
+	 - Log (A/B) = Log(A) - Log(B)
+- Exemplo de cálculo de ganho: ![[Captura de Tela 2026-03-16 às 20.39.12.png]]
+  
+- Unidades em operações 
+![[Captura de Tela 2026-03-16 às 20.40.04.png]]
+
+- Porque usar dB? Comparar grandezas, padroniza medições e simplifica cálculos
