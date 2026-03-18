@@ -11,14 +11,12 @@
             "id": "bb46773f347b7c3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Metodologia cientifica/atividades/Atividade 3 - Estruturação do Artigo no Modelo IEEE.md",
-                "mode": "source",
-                "source": false
+                "file": "Metodologia cientifica/atividades/Atividade 2 -IEEE_Conference_Template.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Atividade 3 - Estruturação do Artigo no Modelo IEEE"
+              "icon": "lucide-file-text",
+              "title": "Atividade 2 -IEEE_Conference_Template"
             }
           }
         ]
@@ -185,9 +183,10 @@
   },
   "active": "bb46773f347b7c3a",
   "lastOpenFiles": [
-    "Metodologia cientifica/atividades/Atividade 3 - Estruturação do Artigo no Modelo IEEE.pdf",
-    "estudosDiversos/Jeito certo de estudar programação _260310_130316 (1).pdf",
     "Metodologia cientifica/atividades/Atividade 3 - Estruturação do Artigo no Modelo IEEE.md",
+    "Metodologia cientifica/atividades/Atividade 3 - Estruturação do Artigo no Modelo IEEE.pdf",
+    "Metodologia cientifica/atividades/Atividade 2 -IEEE_Conference_Template.pdf",
+    "estudosDiversos/Jeito certo de estudar programação _260310_130316 (1).pdf",
     "Captura de Tela 2026-03-18 às 11.05.35.png",
     "Captura de Tela 2026-03-18 às 10.54.56.png",
     "Captura de Tela 2026-03-18 às 10.44.26.png",
@@ -212,8 +211,6 @@
     "Metodologia cientifica/aulas/2. Introdução ao latex e ao Overleaf.md",
     "Metodologia cientifica/aulas/1. Introdução.pdf",
     "Metodologia cientifica/aulas/pasta sem título",
-    "atividades/Atividade 2 -IEEE_Conference_Template.pdf",
-    "atividades/IEEE_Conference_Template.pdf",
     "Sem título.md",
     "Metodologia cientifica/Feynman on Scientific Method.md",
     "Estudos por fora/Metodologia cientifica/Feynman on Scientific Method.md",
