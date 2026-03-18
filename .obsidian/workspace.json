@@ -11,12 +11,14 @@
             "id": "bb46773f347b7c3a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Metodologia cientifica/atividades/Atividade 2 -IEEE_Conference_Template.pdf"
+                "file": "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/em md/5. Requisitos básicos de um sistema de Telecomunicações (Wireless).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Atividade 2 -IEEE_Conference_Template"
+              "icon": "lucide-file",
+              "title": "5. Requisitos básicos de um sistema de Telecomunicações (Wireless)"
             }
           }
         ]
@@ -184,8 +186,8 @@
   "active": "bb46773f347b7c3a",
   "lastOpenFiles": [
     "Metodologia cientifica/atividades/Atividade 3 - Estruturação do Artigo no Modelo IEEE.md",
-    "Metodologia cientifica/atividades/Atividade 3 - Estruturação do Artigo no Modelo IEEE.pdf",
     "Metodologia cientifica/atividades/Atividade 2 -IEEE_Conference_Template.pdf",
+    "Metodologia cientifica/atividades/Atividade 3 - Estruturação do Artigo no Modelo IEEE.pdf",
     "estudosDiversos/Jeito certo de estudar programação _260310_130316 (1).pdf",
     "Captura de Tela 2026-03-18 às 11.05.35.png",
     "Captura de Tela 2026-03-18 às 10.54.56.png",
