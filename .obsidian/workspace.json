@@ -11,12 +11,14 @@
             "id": "bb46773f347b7c3a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/em pdf/7.  Modulação digital pt 2.pdf"
+                "file": "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/em md/8. Modulação digital em banda passante (Parte 2).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "7.  Modulação digital pt 2"
+              "icon": "lucide-file",
+              "title": "8. Modulação digital em banda passante (Parte 2)"
             }
           }
         ]
@@ -183,8 +185,17 @@
   },
   "active": "bb46773f347b7c3a",
   "lastOpenFiles": [
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/em md/7.  Modulação digital pt 2.md",
+    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/em pdf/8. Modulação digital em banda passante (Parte 2).pdf",
+    "Captura de Tela 2026-03-19 às 16.26.26.png",
+    "Captura de Tela 2026-03-19 às 16.25.16.png",
+    "Captura de Tela 2026-03-19 às 16.24.26.png",
+    "Captura de Tela 2026-03-19 às 16.23.39.png",
+    "Pasted image 20260319161838.png",
+    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/em pdf/6. Modulação digital.pdf",
+    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/em md/8. Modulação digital em banda passante (Parte 2).md",
+    "Captura de Tela 2026-03-19 às 16.05.42.png",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/em pdf/7.  Modulação digital pt 2.pdf",
+    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/em md/7.  Modulação digital pt 2.md",
     "Captura de Tela 2026-03-19 às 15.29.35.png",
     "Captura de Tela 2026-03-19 às 15.08.35.png",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/em md/6. Modulação digital.md",
@@ -195,15 +206,8 @@
     "prints/Pasted image 20260311170148.png",
     "Artigos (leitura e resenha)/Artigo tutorial",
     "prints/Pasted image 20260319110829.png",
-    "prints/Pasted image 20260319104728.png",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/em pdf/6. Modulação digital.pdf",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/em pdf/5. Requisitos básicos de um sistema de Telecomunicações (Wireless).pdf",
-    "prints/Captura de Tela 2026-03-18 às 22.22.51.png",
-    "prints/Captura de Tela 2026-03-18 às 19.05.32.png",
-    "prints/Captura de Tela 2026-03-18 às 18.58.01.png",
-    "prints/Captura de Tela 2026-03-18 às 17.58.58.png",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/em md/5. Requisitos básicos de um sistema de Telecomunicações (Wireless).md",
-    "prints/Captura de Tela 2026-03-18 às 16.17.48.png",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/em md/2. Conceitos básicos de telecomunicações.md",
     "Metodologia cientifica/atividades/Atividade 3 - Estruturação do Artigo no Modelo IEEE.md",
     "Metodologia cientifica/atividades/Atividade 2 -IEEE_Conference_Template.pdf",
