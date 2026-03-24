@@ -1,3 +1,4 @@
+## Desafios modelos de internet, etc
 - À medida que a comunidade de pesquisa, tanto na indústria quanto na academia, continua a moldar o escopo das redes sem fio de sexta geração (6G), torna-se evidente que muitas aplicações e serviços inovadores surgirão em seu lançamento, abrangendo realidade estendida, multimídia imersiva, comunicação holográfica, direção autônoma, convergência de redes e computação, sensoriamento multidimensional, inteligência ubíqua, conectividade para a indústria 4.0 e além. Para esse fim, diversas tecnologias de ponta emergiram como facilitadoras essenciais para casos de uso do 6G, dentre as quais a DT se destacou como uma candidata altamente promissora para facilitar o projeto, a análise e a operação de redes sem fio 6G Fonte: 0163-6804/23/$25.00 © 2023 IEEE
 - , a DT para 6G visa conduzir as redes físicas continuamente a um estado ideal, aplicando alterações de políticas e operações de gerenciamento adequadas Fonte: 0163-6804/23/$25.00 © 2023 IEEE
 - Em segundo lugar, as extensas capacidades computacionais exigidas pela DT para fornecer interação e resposta em tempo real necessitam de uma expansão da capacidade computacional física do dispositivo para além de suas limitações físicas, o que, por sua vez, recorre à computação dividida (split computing), outra tendência tecnológica emergente para o 6G. Fonte: 0163-6804/23/$25.00 © 2023 IEEE
@@ -15,5 +16,58 @@
 - ![[Pasted image 20260319110829.png]]
 Fonte:  The Role of Digital Twin in 6G-Based URLLCs: Current Contributions, Research Challenges, and Next Directions
 - A implantação das redes sem fio 6G representa uma oportunidade sem precedentes para atender às demandas por URLLC (conexão de baixa velocidade em tempo real), fomentando assim a implantação de serviços inovadores, que devem mudar nosso cotidiano. Fonte:  The Role of Digital Twin in 6G-Based URLLCs: Current Contributions, Research Challenges, and Next Directions
-- 
 
+- Fonte a partir daqui: https://ieeexplore.ieee.org/document/10183802
+- Rigorosos requisitos de qualidade de serviço (QoS)
+- COMPUTAÇÃO EM MÚLTIPLAS CAMADAS possibilitou comunicações sem fio ultraconfiáveis e de baixa latência (URLLC) no 6G, tem sido considerada uma técnica fundamental para concretizar todo o potencial do metaverso.
+- computação multicamadas URLLC em 6G
+- o 6G suportará uma ampla gama de serviços imersivos com requisitos rigorosos de QoS (Qualidade de Serviço), como a Internet tátil, realidade virtual (RV), realidade aumentada (RA) e realidade estendida (RE).
+-  Inspirada pelos recentes avanços em comunicações ultraconfiáveis e de baixa latência (URLLC), bem como em computação multicamadas, a tecnologia de GDs tem sido considerada promissora para aplicações em metaversos, permitindo a criação de réplicas virtuais de objetos físicos por meio de modelagem digital, comunicação, computação e armazenamento.
+- computação de borda e em nuvem são aplicadas para permitir o processamento de dados para redes DT
+- Artigo 3 e 5, 4, 6 e 9, 11, 12 e 13
+	- 3: Y. Wu, K. Zhang e Y. Zhang, “Network Digital Twins: A Systematic Review”, IEEE
+	- 4: H. Ahmadi et al., “Networked Twins and Twins of Networks: An Overview on the Relationship Between Digital Twins and 6G,” IEEE Commun. Standards Mag., vol. 5, no. 4, Dec. 2021, pp. 154–60.
+	- 5: LU Khan et al., “Digital-Twin-Enabled 6G: Vision, Architectural Trends, and Future Directions,” IEEE Commun. Mag., vol. 60, no. 1, Jan. 2022, pp. 74–80.
+	- 6: S. Sukhmani et al., “Edge Caching and Computing in 5G for Mobile AR/VR and Tactile Internet,” IEEE Multimedia, vol. 26, no. 1, Jan.-Mar. 2018, pp. 21–30.
+	- M. Chen et al., “Edge-CoCaCo: Rumo à otimização conjunta de computação, cache e comunicação na Edge Cloud
+	- T. Do-Duy et al., “Digital Twin-Aided Intelligent Offloading With Edge Selection in Mobile Edge Computing,” IEEE Wire-less Commun. Lett, vol. 11, no. 4, Jan. 2022, pp. 806–10. Internet Things J., vol. 8, nº 18, set. 2021, pp. 13.789–804.
+- A infraestrutura de comunicação deve ser robusta e resiliente o suficiente para suportar interações em tempo real entre os mundos físico e virtual. É necessário atender a dois requisitos críticos principais (mas com objetivos opostos): mapeamento preciso (ou seja, ultra confiabilidade) e feedback em tempo real (ou seja, baixa latência). Em primeiro lugar, a latência de comunicação precisa ser muito baixa, sendo preferível um atraso próximo de zero. Em segundo lugar, a confiabilidade da transmissão precisa ser alta, ou seja, as interações entre objetos físicos e virtuais exigem altíssima confiabilidade. Somente quando a confiabilidade da comunicação é garantida, dados precisos podem ser transmitidos em tempo real para alcançar a modelagem dinâmica de alta fidelidade em DT, visto que mesmo uma pequena quantidade de erros nos dados pode causar sérios danos ao processo de DT.
+- Internet tátil: Papel vital no suporte a aplicações do metaverso em redes 6g. Apresentará desafios formidáveis aos provedores de serviços sem fio. A troca de uma quantidade massiva de dados de AR/VR do metaverso entre as redes será um desafio considerável.
+- baixíssimo atraso de ida e volta.
+-  A computação em nuvem tem sido empregada para processar dados em tempo real do metaverso, graças à sua inteligência e amplo poder computacional. No entanto, como a nuvem está localizada a uma grande distância das entidades físicas, o descarregamento de tarefas dos dispositivos móveis com recursos limitados para a execução dessas tarefas é inviável, o que causa longos atrasos.
+- A computação em múltiplas camadas complementa a computação em nuvem e a
+computação de borda, descarregando e dispersando tarefas computacionais (e de comunicação e cache) e recursos multidimensionais ao longo do contínuo, da nuvem aos objetos.
+- O URLLC visa permitir aplicações de missão crítica, onde o requisito de confiabilidade para a transmissão de um pacote é de 0–6 com uma latência na faixa de 0,5 a 1 ms. Como tal, o URLLC tem sido considerado o foco principal em dados sensíveis à latência. Recentemente, o URLLC e a computação de borda móvel têm sido considerados para garantir o rigoroso requisito de QoS (Qualidade de serviço) de aplicações de missão crítica
+- Devido aos rigorosos requisitos de QoS, é crucial otimizar o uso de recursos de rádio essenciais, como potência e largura de banda, das redes DT consideradas.
+- Pesquisar sobre: 
+	- nós de borda:Nós de borda (edge nodes) são dispositivos de computação, servidores ou sensores localizados na borda de uma rede, próximos à fonte de dados ou ao usuário final. Eles processam informações localmente em vez de enviá-las a um data center central, reduzindo a latência, economizando largura de banda e aumentando a velocidade de resposta. 
+- Usando baixa latência e conexão ultra confiável via links URLLC, os UEs (Equipamentos de Usuário) podem descarregar parcialmente (ou totalmente) suas tarefas para os ESs (Sistemas de Embarque).
+- Rede de comunicação multicamadas: Integra computação em névoa (fog computing), computação de borda (edge computing) e computação em nuvem (cloud computing). É uma arquitetura de computação em nível de sistema mais próxima dos usuários finais 
+![[Pasted image 20260324110504.png]]
+- Componentes sensíveis a latência: Podem ser processados na borda da rede (próximo aos dispositivos finais)
+- fim da fonte https://ieeexplore.ieee.org/document/10183802
+- Nesse contexto, gêmeos digitais podem ser usados para replicar a estrutura e o comportamento da rede física e, ao mesmo tempo, gerenciar com sucesso a complexidade e a heterogeneidade das redes atuais. Fonte: Network Digital Twins: A Systematic Review
+
+## Háptico
+Fonte a partir daqui: https://ieeexplore.ieee.org/document/10400864
+![[Pasted image 20260324110912.png]]
+- Feedback háptico
+- combinando vibração tátil (vibração mecânica) e estimulação elétrica muscular (EMS)
+- estímulos táteis, cinestésicos e térmicos
+- Na pesquisa em háptica, proporcionar essas sensações hápticas holísticas continua sendo uma tarefa desafiadora. Uma abordagem promissora para isso é _a háptica multimodal_ , que gera diferentes tipos de estímulos hápticos usando múltiplos atuadores e combina os estímulos para fins específicos (combinar um  estímulo vibrotátil mecânico com estimulação muscular elétrica (EMS))
+- Artigos interessantes: 
+	- 6, 9, 10, 12, 17, 19, 23, 24 (principal pra ler), 27 e 28
+- Para a háptica multimodal, estímulos vibrotáteis têm sido frequentemente combinados com estímulos de outras modalidades hápticas, como impacto [6] , força [20] , estiramento da pele [21] e calor [22]
+- a EMS apresenta vantagens únicas, pois 1) fornece feedback cinestésico por meio da estimulação muscular e 2) pode ser facilmente aplicada a diversas partes do corpo, bastando fixar eletrodos flexíveis.
+![[Captura de Tela 2026-03-24 às 11.22.25.png]]
+- Feedback vibrotátil e a estimulação eletromagnética podem se complementar se combinadas adequadamente
+- A atenção e a atividade muscular do usuário nesses movimentos podem afetar a percepção háptica
+![[Pasted image 20260324112626.png]]
+- Renderização de vibração: O objetivo do feedback de vibração é apresentar vibrações transitórias em eventos de colisão
+- Renderização EMS: A função da EMS é produzir uma força intensa e de curta duração no ponto de contato. Um pulso de comando enviado ao circuito da EMS controla a contração muscular.
+- Para simulação de realidade virtual (RV), projetamos e implementamos ambientes virtuais (AV) usando o Unity 3D. Uma câmera RGB-D (Azure Kinect, Microsoft) rastreia todo o corpo do usuário, incluindo o pulso direito, onde um objeto virtual para interação, seja ele usado no pulso ou segurado na mão, está posicionado. O motor do Unity3D detecta colisões entre o pulso direito do usuário e outros objetos virtuais e, em seguida, calcula suas velocidades de colisão. Quando uma colisão é detectada, o motor envia uma mensagem serial via Wi-Fi para a unidade de controle do dispositivo háptico fixada na proteção de pulso. A mensagem contém quais vibrações e EMS (estimulação eletromagnética) devem ser acionadas e seus parâmetros para geração de sinal. Nossa comunicação sem fio do AV para o dispositivo háptico tem uma latência de aproximadamente 12 ms. Considerando esse atraso, o volume do colisor no Unity3D é definido como ligeiramente maior que o objeto virtual usado no pulso ou segurado na mão para interação.
+- Para que nossa abordagem de vibração + EMS alcance valores mais gerais, precisamos superar alguns desafios. Primeiro, devemos explorar métodos para elicitar sensações multimodais perceptualmente distintas em diferentes partes do corpo, resolvendo possíveis efeitos de mascaramento entre os dois estímulos. Segundo, a EMS apresenta alguns problemas inerentes à usabilidade. Ela exige posicionamento preciso dos eletrodos e um procedimento de calibração de parâmetros para cada indivíduo, o que pode ser trabalhoso e demorado. Outros problemas incluem fadiga muscular rápida e sensações de formigamento.
+- Fim da fonte: https://ieeexplore.ieee.org/document/10400864
+
+- Fonte a partir daqui: https://dl.acm.org/doi/abs/10.1145/3025453.3025600
+- Em busca de realismo e imersão, muitos pesquisadores argumentam que esses sistemas (mundo virtual) também devem suportar o sentido háptico para transmitir a fisicalidade do mundo virtual
