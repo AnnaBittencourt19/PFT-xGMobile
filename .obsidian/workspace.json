@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/revisões por semana/Revisão semana 1.md",
+                "file": "python/Brilliant/Dia 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Revisão semana 1"
+              "title": "Dia 1"
             }
           }
         ],
@@ -198,11 +198,17 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "5f6491168cf3745e",
+  "active": "14f18d2d9db7f5bf",
   "lastOpenFiles": [
+    "python/Brilliant/Dia 1.pdf",
+    "python/1. Introdução.md",
+    "python/Brilliant/Dia 1.md",
+    "Captura de Tela 2026-03-31 às 09.17.25.png",
+    "python/Brilliant",
+    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/revisões por semana/Revisão semana 1.md",
+    "python",
     "prints/Captura de Tela 2026-03-30 às 12.29.41.png",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/Sem título.md",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/revisões por semana/Revisão semana 1.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/revisões por semana",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/evolucao por semana",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/Sem título.md",
@@ -216,17 +222,13 @@
     "prints/Captura de Tela 2026-03-28 às 19.12.22.png",
     "Captura de Tela 2026-03-28 às 19.11.40.png",
     "prints/Pasted image 20260328190105.png",
-    "Pasted image 20260328190032.png",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/16.  Fundamentos de Propagação — Ondas Eletromagnéticas.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/15. Soluções de implantação de rádios digitais pt 2.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em pdf/16.  Fundamentos de Propagação — Ondas Eletromagnéticas.pdf",
-    "prints/Pasted image 20260327224936.png",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em pdf/15. Soluções de implantação de rádios digitais pt 2.pdf",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em pdf/14. Soluções de implantação de rádios digitais.pdf",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em pdf/13. PDH e SDH.pdf",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em pdf/4. Requisitos básicos de um sistema de Telecomunicações (Confinado).pdf",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em pdf/5. Requisitos básicos de um sistema de Telecomunicações (Wireless).pdf",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em pdf/6. Modulação digital.pdf",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/evolucao por semana/Evolução semana 2.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/evolucao por semana/Evolução semana 1.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/14. Soluções de implantação de rádios digitais.md",
@@ -243,8 +245,6 @@
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/6. Modulação digital.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/5. Requisitos básicos de um sistema de Telecomunicações (Wireless).md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/4. Requisitos básicos de um sistema de Telecomunicações (Confinado).md",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/Sem título.md",
-    "Metodologia cientifica/atividades/Atividade 4 - Referências científicas.md",
-    "Metodologia cientifica/atividades/Atividade 3 - Estruturação do Artigo no Modelo IEEE.md"
+    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/Sem título.md"
   ]
 }
