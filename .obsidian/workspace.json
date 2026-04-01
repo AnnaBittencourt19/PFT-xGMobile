@@ -198,21 +198,22 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "5f6491168cf3745e",
+  "active": "14f18d2d9db7f5bf",
   "lastOpenFiles": [
-    "python/aulas/codigos/Exercicios_aula_2 (2).ipynb",
-    "python/aulas/Exercicios_aula_2 (2).ipynb",
-    "python/Exercicios_aula_2 (2).ipynb",
-    "Exercicios_aula_2 (2).ipynb",
-    "python/aulas/atividade",
-    "python/aulas/pasta sem título",
-    "python/aulas/anotacoes/1. Introdução.md",
+    "python/Revisão Python/Sintaxe.md",
+    "python/Revisão Python/coddy/laços/laco_for.py",
+    "python/Revisão Python/coddy/laços",
+    "python/Revisão Python/coddy/projeto calculadora/valor_por_pessoa_calc.py",
+    "python/Revisão Python/coddy/projeto calculadora/valor_gorjeta_calc.py",
+    "python/Revisão Python/coddy/projeto calculadora/obtendo_entrada_calc.py",
+    "python/Revisão Python/coddy/projeto calculadora/calculadora_divisao_conta.py",
+    "python/Revisão Python/coddy/projeto calculadora",
+    "python/Revisão Python/coddy/calculadora_divisao_conta.py",
+    "python/Revisão Python/coddy/valor_gorjeta_calc.py",
+    "python/Revisão Python/coddy/valor_por_pessoa_calc.py",
+    "python/Revisão Python/coddy/obtendo_entradas.py.md",
     "python/aulas/anotacoes/2. Strings, listas, tuplas, dicionarios....md",
-    "python/aulas/codigos/Aula1_Python.ipynb",
-    "python/aulas/codigos/Aula2Python.ipynb",
-    "python/aulas/Aula1_Python.ipynb",
-    "python/aulas/Aula2Python.ipynb",
-    "python/Aula2Python.ipynb",
+    "python/aulas/anotacoes/1. Introdução.md",
     "prints/Captura de Tela 2026-03-31 às 15.57.03.png",
     "python/Brilliant/Dia 1.md",
     "prints/Captura de Tela 2026-03-31 às 09.17.25.png",
@@ -243,8 +244,6 @@
     "Artigos (leitura e resenha)/Artigo tutorial/Metodologia.md",
     "Artigos (leitura e resenha)/Artigo tutorial/citacoes metodologia.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/7.  Modulação digital pt 2.md",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/6. Modulação digital.md",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/5. Requisitos básicos de um sistema de Telecomunicações (Wireless).md",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/4. Requisitos básicos de um sistema de Telecomunicações (Confinado).md"
+    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/6. Modulação digital.md"
   ]
 }
