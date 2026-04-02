@@ -11,14 +11,12 @@
             "id": "bb46773f347b7c3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "python/Revisão Python/coddy/laços/Explicação range - coddy.md",
-                "mode": "source",
-                "source": false
+                "file": "python/Brilliant/Dia 3.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Explicação range - coddy"
+              "icon": "lucide-file-text",
+              "title": "Dia 3"
             }
           }
         ]
@@ -185,8 +183,21 @@
   },
   "active": "bb46773f347b7c3a",
   "lastOpenFiles": [
-    "python/Revisão Python/coddy/laços/Explicação while - coddy.md",
+    "python/Brilliant/Dia 3.md",
+    "python/Brilliant/Dia 3.pdf",
+    "Captura de Tela 2026-04-02 às 08.55.58.png",
+    "prints/Captura de Tela 2026-03-31 às 15.57.03.png",
+    "prints/Captura de Tela 2026-03-28 às 20.00.19.png",
+    "prints/Captura de Tela 2026-03-30 às 12.29.41.png",
+    "prints/Pasted image 20260319104728.png",
+    "prints/Pasted image 20260326131252.png",
+    "prints/Pasted image 20260328190105.png",
+    "prints/Pasted image 20260327224440.png",
+    "prints/Captura de Tela 2026-03-28 às 19.56.29.png",
+    "prints/Captura de Tela 2026-03-26 às 13.13.20 1.png",
+    "python/Brilliant/Dia 2.pdf",
     "python/Revisão Python/coddy/laços/Explicação range - coddy.md",
+    "python/Revisão Python/coddy/laços/Explicação while - coddy.md",
     "python/Revisão Python/coddy/laços/range.py",
     "python/Revisão Python/coddy/laços/fatorial.py",
     "python/Revisão Python/coddy/laços/continue.py",
@@ -195,29 +206,17 @@
     "python/Revisão Python/coddy/laços/Explicação for - coddy.md",
     "python/aulas/anotacoes/2. Strings, listas, tuplas, dicionarios....md",
     "python/Brilliant/Dia 2.md",
-    "python/Brilliant/Dia 2.pdf",
-    "Captura de Tela 2026-04-01 às 10.43.22.png",
     "python/Brilliant/Dia 1.pdf",
     "python/Brilliant/Dia 1.md",
     "python/Revisão Python/Sintaxe.md",
     "python/Revisão Python/coddy/laços/laco_for.py",
     "python/Revisão Python/coddy/laços",
-    "python/Revisão Python/coddy/projeto calculadora/valor_por_pessoa_calc.py",
     "python/Revisão Python/coddy/obtendo_entradas.py.md",
     "python/aulas/anotacoes/1. Introdução.md",
-    "prints/Captura de Tela 2026-03-31 às 15.57.03.png",
-    "prints/Captura de Tela 2026-03-31 às 09.17.25.png",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/revisões por semana/Revisão semana 1.md",
-    "prints/Captura de Tela 2026-03-30 às 12.29.41.png",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/Sem título.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/Sem título.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/17. Fundamentos de propagação - Reflexão e refração.md",
-    "prints/Captura de Tela 2026-03-28 às 20.00.19.png",
-    "prints/Captura de Tela 2026-03-28 às 19.59.37.png",
-    "prints/Captura de Tela 2026-03-28 às 19.57.46.png",
-    "prints/Captura de Tela 2026-03-28 às 19.56.29.png",
-    "prints/Captura de Tela 2026-03-28 às 19.42.22.png",
-    "prints/Captura de Tela 2026-03-28 às 19.12.22.png",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/16.  Fundamentos de Propagação — Ondas Eletromagnéticas.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/15. Soluções de implantação de rádios digitais pt 2.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/evolucao por semana/Evolução semana 2.md",
@@ -228,8 +227,6 @@
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/11. Codificação de Canal (Parte 2).md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/10. Codificação de canal.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/9. Codificação da fonte.md",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/8. Modulação digital em banda passante (Parte 2).md",
-    "Artigos (leitura e resenha)/Artigo tutorial/Insights sobre artigo telemedicina.md",
-    "Artigos (leitura e resenha)/Artigo tutorial/Metodologia.md"
+    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/8. Modulação digital em banda passante (Parte 2).md"
   ]
 }
