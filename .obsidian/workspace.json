@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/19. Funcionamento das antenas.md",
+                "file": "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/22. Técnicas e fundamentos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19. Funcionamento das antenas"
+              "title": "22. Técnicas e fundamentos"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5,
-    "collapsed": true
+    "width": 389.5
   },
   "right": {
     "id": "fbc67e4869722350",
@@ -186,35 +185,38 @@
   },
   "active": "bb46773f347b7c3a",
   "lastOpenFiles": [
+    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em pdf/22. Técnicas e fundamentos.pdf",
+    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/21. Tipos de Antenas (Fundamentos e Aplicações).md",
+    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/22. Técnicas e fundamentos.md",
+    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em pdf/21. Tipos de Antenas (Fundamentos e Aplicações).pdf",
+    "prints/Pasted image 20260403184318.png",
+    "prints/Pasted image 20260403184201.png",
+    "prints/Pasted image 20260403183951.png",
+    "prints/Pasted image 20260403183732.png",
+    "prints/Pasted image 20260403183550.png",
+    "prints/Pasted image 20260403183301.png",
+    "prints/Pasted image 20260403183058.png",
+    "prints/Pasted image 20260403182610.png",
+    "prints/Pasted image 20260403182340.png",
+    "prints/Pasted image 20260403182218.png",
+    "python/Brilliant/Dia 4.md",
+    "python/Brilliant/Dia 4.pdf",
+    "python/Brilliant/Dia 3.pdf",
+    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/20. Fundamentos e aplicações.md",
+    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em pdf/20. Fundamentos e aplicações.pdf",
+    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/19. Funcionamento das antenas.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em pdf/19. Funcionamento das antenas.pdf",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/18. Modelagem de propagação.md",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/19. Funcionamento das antenas.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em pdf/18. Modelagem de propagação.pdf",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em pdf/17. Fundamentos de propagação - Reflexão e refração.pdf",
-    "python/Brilliant/Dia 3.pdf",
-    "python/Brilliant/Dia 3.md",
-    "Captura de Tela 2026-04-02 às 08.55.58.png",
-    "prints/Captura de Tela 2026-03-31 às 15.57.03.png",
-    "prints/Captura de Tela 2026-03-28 às 20.00.19.png",
-    "prints/Captura de Tela 2026-03-30 às 12.29.41.png",
-    "prints/Pasted image 20260319104728.png",
-    "prints/Pasted image 20260326131252.png",
-    "prints/Pasted image 20260328190105.png",
-    "prints/Pasted image 20260327224440.png",
-    "prints/Captura de Tela 2026-03-28 às 19.56.29.png",
-    "prints/Captura de Tela 2026-03-26 às 13.13.20 1.png",
     "python/Brilliant/Dia 2.pdf",
     "python/Revisão Python/coddy/laços/Explicação range - coddy.md",
     "python/Revisão Python/coddy/laços/Explicação while - coddy.md",
     "python/Revisão Python/coddy/laços/range.py",
     "python/Revisão Python/coddy/laços/fatorial.py",
-    "python/Revisão Python/coddy/laços/continue.py",
-    "python/Revisão Python/coddy/laços/break.py",
-    "python/Revisão Python/coddy/laços/laco_while.py",
     "python/Revisão Python/coddy/laços/Explicação for - coddy.md",
     "python/aulas/anotacoes/2. Strings, listas, tuplas, dicionarios....md",
     "python/Brilliant/Dia 2.md",
-    "python/Brilliant/Dia 1.pdf",
     "python/Brilliant/Dia 1.md",
     "python/Revisão Python/Sintaxe.md",
     "python/Revisão Python/coddy/obtendo_entradas.py.md",
@@ -228,9 +230,6 @@
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/evolucao por semana/Evolução semana 1.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/14. Soluções de implantação de rádios digitais.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/13. PDH e SDH.md",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/12. Cabos coaxiais e guias de onda.md",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/11. Codificação de Canal (Parte 2).md",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/10. Codificação de canal.md",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/9. Codificação da fonte.md"
+    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/12. Cabos coaxiais e guias de onda.md"
   ]
 }
