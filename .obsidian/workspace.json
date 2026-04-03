@@ -11,12 +11,14 @@
             "id": "bb46773f347b7c3a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "python/Brilliant/Dia 3.pdf"
+                "file": "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/18. Modelagem de propagação.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Dia 3"
+              "icon": "lucide-file",
+              "title": "18. Modelagem de propagação"
             }
           }
         ]
@@ -183,8 +185,10 @@
   },
   "active": "bb46773f347b7c3a",
   "lastOpenFiles": [
-    "python/Brilliant/Dia 3.md",
+    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em pdf/18. Modelagem de propagação.pdf",
+    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em pdf/17. Fundamentos de propagação - Reflexão e refração.pdf",
     "python/Brilliant/Dia 3.pdf",
+    "python/Brilliant/Dia 3.md",
     "Captura de Tela 2026-04-02 às 08.55.58.png",
     "prints/Captura de Tela 2026-03-31 às 15.57.03.png",
     "prints/Captura de Tela 2026-03-28 às 20.00.19.png",
@@ -210,11 +214,10 @@
     "python/Brilliant/Dia 1.md",
     "python/Revisão Python/Sintaxe.md",
     "python/Revisão Python/coddy/laços/laco_for.py",
-    "python/Revisão Python/coddy/laços",
     "python/Revisão Python/coddy/obtendo_entradas.py.md",
     "python/aulas/anotacoes/1. Introdução.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/revisões por semana/Revisão semana 1.md",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/Sem título.md",
+    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/18. Modelagem de propagação.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/Sem título.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/17. Fundamentos de propagação - Reflexão e refração.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/16.  Fundamentos de Propagação — Ondas Eletromagnéticas.md",
