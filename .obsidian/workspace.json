@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/Dicionario.md",
+                "file": "python/aulas/anotacoes/3. Controle de fluxo, tratamento de erro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dicionario"
+              "title": "3. Controle de fluxo, tratamento de erro"
             }
           }
         ]
@@ -183,8 +183,19 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "bb46773f347b7c3a",
+  "active": "5f6491168cf3745e",
   "lastOpenFiles": [
+    "python/aulas/codigos/Aula3Python.ipynb",
+    "python/aulas/Aula3Python.ipynb",
+    "python/Aula3Python.ipynb",
+    "Aula3Python.ipynb",
+    "python/aulas/anotacoes/3. Controle de fluxo, tratamento de erro.pdf",
+    "python/aulas/anotacoes/2. Strings, listas, tuplas, dicionarios....md",
+    "python/aulas/anotacoes/2. Strings, listas, tuplas, dicionarios....pdf",
+    "python/aulas/anotacoes/1. Introdução.md",
+    "python/aulas/anotacoes/3. Controle de fluxo, tratamento de erro.md",
+    "prints/Captura de Tela 2026-04-07 às 10.30.39.png",
+    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/Dicionario.md",
     "python/Revisão Python/coddy/funções/funcao_validacao.py",
     "python/Revisão Python/coddy/funções/desafio.py",
     "python/Revisão Python/coddy/funções/retorno.py",
@@ -192,24 +203,17 @@
     "python/Revisão Python/coddy/laços/Explicação declarar uma função - coddy.md",
     "python/Revisão Python/coddy/funções/Explicação declarar uma função - coddy.md",
     "python/Revisão Python/coddy/funções/declarar_funcao.py",
-    "python/Revisão Python/coddy/funções",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/Dicionario.md",
     "python/Brilliant/Dia 7.md",
-    "python/Brilliant/Dia 7.pdf",
     "Captura de Tela 2026-04-06 às 21.13.11.png",
     "python/Brilliant/Dia 6.md",
-    "python/Brilliant/Dia 6.pdf",
     "Captura de Tela 2026-04-05 às 17.41.02.png",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em pdf/Dicionario.pdf",
     "prints/Captura de Tela 2026-03-13 às 11.15.29.png",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/9. Codificação da fonte.md",
     "python/Brilliant/Dia 5.md",
-    "python/Brilliant/Dia 5.pdf",
     "Captura de Tela 2026-04-04 às 12.26.36.png",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/8. Modulação digital em banda passante (Parte 2).md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/7.  Modulação digital pt 2.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/Prova - revisão e correção.md",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em pdf/Prova - revisão e correção.pdf",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/20. Fundamentos e aplicações.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/19. Funcionamento das antenas.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/18. Modelagem de propagação.md",
@@ -226,10 +230,6 @@
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/13. PDH e SDH.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/12. Cabos coaxiais e guias de onda.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/11. Codificação de Canal (Parte 2).md",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/10. Codificação de canal.md",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/5. Requisitos básicos de um sistema de Telecomunicações (Wireless).md",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/4. Requisitos básicos de um sistema de Telecomunicações (Confinado).md",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/3. Conceitos básicos de telecomunicações.md",
-    "Captura de Tela 2026-04-03 às 20.20.35.png"
+    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/10. Codificação de canal.md"
   ]
 }
