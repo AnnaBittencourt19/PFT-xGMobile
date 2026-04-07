@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/aulas/anotacoes/3. Controle de fluxo, tratamento de erro.md",
+                "file": "python/aulas/anotacoes/4. Funções.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Controle de fluxo, tratamento de erro"
+              "title": "4. Funções"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 492.5
+    "width": 492.5,
+    "collapsed": true
   },
   "right": {
     "id": "fbc67e4869722350",
@@ -185,23 +186,25 @@
   },
   "active": "bb46773f347b7c3a",
   "lastOpenFiles": [
+    "python/aulas/codigos/exercicios_aula_4 (1).ipynb",
+    "python/aulas/exercicios_aula_4 (1).ipynb",
+    "python/exercicios_aula_4 (1).ipynb",
+    "exercicios_aula_4 (1).ipynb",
+    "python/aulas/codigos/Aula4Python.ipynb",
+    "python/aulas/Aula4Python.ipynb",
+    "python/Aula4Python.ipynb",
+    "Aula4Python.ipynb",
+    "python/aulas/anotacoes/3. Controle de fluxo, tratamento de erro.md",
+    "python/aulas/anotacoes/4. Funções.md",
     "python/Brilliant/Dia 8.md",
     "python/Brilliant/Dia 8.pdf",
     "Captura de Tela 2026-04-07 às 13.33.53.png",
-    "python/aulas/anotacoes/3. Controle de fluxo, tratamento de erro.md",
     "python/aulas/codigos/Aula3Python.ipynb",
     "python/aulas/Aula3Python.ipynb",
-    "python/Aula3Python.ipynb",
-    "Aula3Python.ipynb",
-    "python/aulas/anotacoes/3. Controle de fluxo, tratamento de erro.pdf",
     "python/aulas/anotacoes/2. Strings, listas, tuplas, dicionarios....md",
-    "python/aulas/anotacoes/2. Strings, listas, tuplas, dicionarios....pdf",
     "python/aulas/anotacoes/1. Introdução.md",
     "prints/Captura de Tela 2026-04-07 às 10.30.39.png",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/Dicionario.md",
-    "python/Revisão Python/coddy/funções/funcao_validacao.py",
-    "python/Revisão Python/coddy/funções/desafio.py",
-    "python/Revisão Python/coddy/funções/retorno.py",
     "python/Revisão Python/coddy/laços/Explicação declarar uma função - coddy.md",
     "python/Revisão Python/coddy/funções/Explicação declarar uma função - coddy.md",
     "python/Brilliant/Dia 7.md",
@@ -228,7 +231,6 @@
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/15. Soluções de implantação de rádios digitais pt 2.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/14. Soluções de implantação de rádios digitais.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/13. PDH e SDH.md",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/12. Cabos coaxiais e guias de onda.md",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/11. Codificação de Canal (Parte 2).md"
+    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/12. Cabos coaxiais e guias de onda.md"
   ]
 }
