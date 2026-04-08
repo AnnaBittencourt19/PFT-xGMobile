@@ -11,14 +11,12 @@
             "id": "bb46773f347b7c3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "python/aulas/anotacoes/4. Funções.md",
-                "mode": "source",
-                "source": false
+                "file": "python/Brilliant/Dia 9.pdf"
               },
-              "icon": "lucide-file",
-              "title": "4. Funções"
+              "icon": "lucide-file-text",
+              "title": "Dia 9"
             }
           }
         ]
@@ -78,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 492.5,
-    "collapsed": true
+    "width": 492.5
   },
   "right": {
     "id": "fbc67e4869722350",
@@ -186,6 +183,13 @@
   },
   "active": "bb46773f347b7c3a",
   "lastOpenFiles": [
+    "Metodologia cientifica/atividades/Atividade 4 - Referências científicas.md",
+    "python/Brilliant/Dia 9.md",
+    "python/Brilliant/Dia 9.pdf",
+    "python/Brilliant/Captura de Tela 2026-04-08 às 10.14.58.png",
+    "Metodologia cientifica/aulas/2. Introdução ao latex e ao Overleaf.pdf",
+    "Metodologia cientifica/aulas/2. Introdução ao latex e ao Overleaf.md",
+    "python/aulas/anotacoes/4. Funções.md",
     "python/aulas/codigos/exercicios_aula_4 (1).ipynb",
     "python/aulas/exercicios_aula_4 (1).ipynb",
     "python/exercicios_aula_4 (1).ipynb",
@@ -195,12 +199,8 @@
     "python/Aula4Python.ipynb",
     "Aula4Python.ipynb",
     "python/aulas/anotacoes/3. Controle de fluxo, tratamento de erro.md",
-    "python/aulas/anotacoes/4. Funções.md",
     "python/Brilliant/Dia 8.md",
-    "python/Brilliant/Dia 8.pdf",
     "Captura de Tela 2026-04-07 às 13.33.53.png",
-    "python/aulas/codigos/Aula3Python.ipynb",
-    "python/aulas/Aula3Python.ipynb",
     "python/aulas/anotacoes/2. Strings, listas, tuplas, dicionarios....md",
     "python/aulas/anotacoes/1. Introdução.md",
     "prints/Captura de Tela 2026-04-07 às 10.30.39.png",
@@ -227,10 +227,6 @@
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/6. Modulação digital.md",
     "Captura de Tela 2026-04-03 às 20.24.37.png",
     "Captura de Tela 2026-04-03 às 20.23.03.png",
-    "Captura de Tela 2026-04-03 às 20.22.35.png",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/15. Soluções de implantação de rádios digitais pt 2.md",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/14. Soluções de implantação de rádios digitais.md",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/13. PDH e SDH.md",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/12. Cabos coaxiais e guias de onda.md"
+    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/15. Soluções de implantação de rádios digitais pt 2.md"
   ]
 }
