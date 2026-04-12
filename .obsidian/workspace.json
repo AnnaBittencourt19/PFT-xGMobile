@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 492.5,
-    "collapsed": true
+    "width": 492.5
   },
   "right": {
     "id": "fbc67e4869722350",
@@ -186,10 +185,13 @@
   },
   "active": "bb46773f347b7c3a",
   "lastOpenFiles": [
+    "python/Brilliant/Dia 12.md",
+    "python/Brilliant/Dia 12.pdf",
+    "Captura de Tela 2026-04-11 às 23.08.52.png",
+    "python/aulas/anotacoes/Projeto final de Python.md",
     "python/Brilliant/Dia 10 e 11.md",
     "python/Brilliant/Dia 10 e 11.pdf",
     "Captura de Tela 2026-04-10 às 19.46.57.png",
-    "python/aulas/anotacoes/Projeto final de Python.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/evolucao por semana/Evolução semana 3-4.pdf",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em pdf/Prova - revisão e correção.pdf",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/Prova - revisão e correção.md",
@@ -211,7 +213,6 @@
     "python/aulas/anotacoes/3. Controle de fluxo, tratamento de erro.md",
     "python/aulas/codigos/Aula5Python.ipynb",
     "python/aulas/Aula5Python.ipynb",
-    "python/Aula5Python.ipynb",
     "python/aulas/anotacoes/5. POO.md",
     "Metodologia cientifica/atividades/Atividade 4 - Referências científicas.md",
     "python/Brilliant/Dia 9.md",
@@ -224,12 +225,10 @@
     "python/Revisão Python/coddy/laços/Explicação declarar uma função - coddy.md",
     "python/Revisão Python/coddy/funções/Explicação declarar uma função - coddy.md",
     "python/Brilliant/Dia 7.md",
-    "Captura de Tela 2026-04-06 às 21.13.11.png",
     "python/Brilliant/Dia 6.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/9. Codificação da fonte.md",
     "python/Brilliant/Dia 5.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/8. Modulação digital em banda passante (Parte 2).md",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/7.  Modulação digital pt 2.md",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/20. Fundamentos e aplicações.md"
+    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/7.  Modulação digital pt 2.md"
   ]
 }

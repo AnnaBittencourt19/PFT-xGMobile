@@ -25,9 +25,13 @@
 	- se usuario digitar um valor inválido (tipo letras) o programa retorna um valueError
 	- float(input(...)): Tenta converter a entrada do usuario para float
 	- o primeiro try tenta criar um dataframe e calcular o total da compra 
-	- o segundo tenta ver se o dinheiro de entrada (que o usuario tem) é suficiente para realizar a compra (por meio de um if) (retorna 'Compra realizada com sucesso!') e se não tiver a quantidade retorna um erro 'Dinheiro insuficiente na primeira tentativa' 
-	- já no 
-
+	- o segundo try tenta ver se o dinheiro de entrada (que o usuario tem) é suficiente para realizar a compra (por meio de um if) (retorna 'Compra realizada com sucesso!') e se não tiver a quantidade retorna um erro 'Dinheiro insuficiente na primeira tentativa' 
+	- já no except (do segundo try): Faz a remoção dos itens não essenciais (chama a função filtrar_nao_essenciais) e cria uma nova lista, depois chama a função calcular_total usando a nova_lista e o dicionario dos valores, após fazer isso tem um if/else onde se o novo_total continua sendo maior que o valor que o usuario tem retorna um erro "Mesmo após remover não essenciais dinheiro insuficiente! Necessário: R\${novo_total:.2f} Disponível: R\${dinheiro:.2f}" e caso o dinheiro seja suficiente cria um novo dataframe que se chama df_filtrado (sem os não essenciais e com o novo valor final)
+### Fase 3 - Engenharia com POO 
+- A classe ValidadorPreco: Impede dados errados
+	- 
+- A classe SaneadorBase: Padroniza todos os saneadores
+- A classe SaneadorDados: Agrupa todas as ferramentas de limpeza em um só lugar, usando métodos estáticos e de classe para diferentes situações
 - OBSERVAÇÕES: 
 	- Adicionar um item em uma lista é append()
 	- Capitalize() deixa a primeira letra maiuscula
