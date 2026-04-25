@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/Revisão Python/coddy/FizzBuzz/Observações.md",
+                "file": "python/Revisão Python/coddy/Listas/metodos de lista.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Observações"
+              "title": "metodos de lista"
             }
           }
         ]
@@ -185,8 +185,18 @@
   },
   "active": "bb46773f347b7c3a",
   "lastOpenFiles": [
-    "python/Brilliant/Dia 1.pdf",
+    "python/Revisão Python/coddy/Listas/multiplicando_elementos.py",
+    "python/Revisão Python/coddy/Listas/metodos_de_lista.py",
+    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/2. Em sistemas celulares e opticos/Anotacoes em md/6. Comportamento da Luz no meio Atenuação, Dispersão e absorção.md",
+    "python/Revisão Python/coddy/Listas/metodos de lista.md",
+    "python/Revisão Python/coddy/Listas/modificando_itens.py",
+    "python/Revisão Python/coddy/Listas/modificando_itens",
+    "python/Revisão Python/coddy/Listas/acessando_elementos.py",
+    "python/Revisão Python/coddy/Listas",
+    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/2. Em sistemas celulares e opticos/Anotacoes em md/5. Comportamento da Luz no meio Atenuação, Dispersão e absorção.md",
+    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/2. Em sistemas celulares e opticos/Anotacoes em pdf/5. Comportamento da Luz no meio Atenuação, Dispersão e absorção.pdf",
     "python/Revisão Python/coddy/FizzBuzz/Observações.md",
+    "python/Brilliant/Dia 1.pdf",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/evolucao por semana/Evolução semana 5-6.pdf",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/evolucao por semana/Evolução semana 5-6.md",
     "prints/Captura de Tela 2026-04-23 às 21.05.43.png",
@@ -204,24 +214,15 @@
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/evolucao por semana/Evolução semana 3-4.pdf",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/evolucao por semana/Evolução semana 1.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/evolucao por semana/Evolução semana 1.pdf",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/evolucao por semana/Evolução semana 2.pdf",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/evolucao por semana/Evolução semana 2.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/2. Em sistemas celulares e opticos/Anotacoes em md/12. Redes WDM.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/2. Em sistemas celulares e opticos/Anotacoes em md/10. Equipamentos Opticos  Detectores, Atenuadores, Amplificadores e Fusão.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/2. Em sistemas celulares e opticos/Anotacoes em md/9. Óptica em Meios não Guiados x Óptica em Meios Guiados.md",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/2. Em sistemas celulares e opticos/Anotacoes em md/6. Comportamento da Luz no meio Atenuação, Dispersão e absorção.md",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/2. Em sistemas celulares e opticos/Anotacoes em md/5. Comportamento da Luz no meio Atenuação, Dispersão e absorção.md",
     "Inteligência Artificial/2..md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/2. Em sistemas celulares e opticos/Anotacoes em md/4. Conceitos de comunicações ópticas.md",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/2. Em sistemas celulares e opticos/Anotacoes em pdf/4. Conceitos de comunicações ópticas.pdf",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/2. Em sistemas celulares e opticos/Anotacoes em pdf/3. Fundamentos de sistemas celulares.pdf",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/2. Em sistemas celulares e opticos/Anotacoes em md/2. Modelos de propagação.md",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/2. Em sistemas celulares e opticos/Anotacoes em pdf/2. Modelos de propagação.pdf",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/2. Em sistemas celulares e opticos/Anotacoes em md/1. Revisão histórica e panorama atual das comunicações móveis.md",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/2. Em sistemas celulares e opticos/Anotacoes em pdf/1. Revisão histórica e panorama atual das comunicações móveis.pdf",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/2. Em sistemas celulares e opticos/Anotacoes em pdf",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/2. Em sistemas celulares e opticos/Sem título.md",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/2. Em sistemas celulares e opticos/Anotacoes em md",
     "Artigos (leitura e resenha)/Artigo tutorial/insights parte 2.md",
     "Inteligência Artificial/1..md",
     "python/aulas/anotacoes/Projeto final de Python.md",
@@ -229,7 +230,6 @@
     "python/Brilliant/Dia 13.md",
     "python/Brilliant/Dia 12.md",
     "python/Brilliant/Dia 10 e 11.md",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/Prova - revisão e correção.md",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/Dicionario.md"
+    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/Prova - revisão e correção.md"
   ]
 }
