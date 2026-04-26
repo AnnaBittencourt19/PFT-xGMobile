@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/Revisão Python/coddy/Listas/metodos de lista.md",
+                "file": "python/Revisão Python/coddy/Listas/Tupla.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "metodos de lista"
+              "title": "Tupla"
             }
           }
         ]
@@ -185,8 +185,9 @@
   },
   "active": "bb46773f347b7c3a",
   "lastOpenFiles": [
-    "parte2ca.md",
     "python/Revisão Python/coddy/Listas/metodos de lista.md",
+    "python/Revisão Python/coddy/Listas/Tupla.md",
+    "parte2ca.md",
     "calculo1.md",
     "python/Revisão Python/coddy/Listas/multiplicando_elementos.py",
     "python/Revisão Python/coddy/Listas/metodos_de_lista.py",
@@ -229,7 +230,6 @@
     "python/aulas/anotacoes/Projeto final de Python.md",
     "python/Brilliant/Dia 14.md",
     "python/Brilliant/Dia 13.md",
-    "python/Brilliant/Dia 12.md",
-    "python/Brilliant/Dia 10 e 11.md"
+    "python/Brilliant/Dia 12.md"
   ]
 }
