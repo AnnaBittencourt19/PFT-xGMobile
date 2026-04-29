@@ -32,3 +32,6 @@ print(numbers[5:])
 ```
 
 Quando o stop é omitido, o slice vai até o final
+```python
+[início : fim : passo]
+```
