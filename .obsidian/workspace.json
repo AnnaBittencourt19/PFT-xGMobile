@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/evolucao por semana/Evolução semana 7.md",
+                "file": "python/Revisão Python/coddy/Listas/iterando strings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Evolução semana 7"
+              "title": "iterando strings"
             }
           }
         ]
@@ -183,11 +183,13 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "5f6491168cf3745e",
+  "active": "bb46773f347b7c3a",
   "lastOpenFiles": [
+    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/2. Em sistemas celulares e opticos/Anotacoes em md/7..md",
+    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/evolucao por semana/Evolução semana 7.md",
+    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/evolucao por semana/Evolução semana 7.pdf",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/certificados/Certificado_de_Fundamentos_em_Telecomunicacoes_C2.pdf",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/evolucao por semana/Evolução semana 5-6.md",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/evolucao por semana/Evolução semana 7.md",
+    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/evolucao por semana/Evolução semana 5-6.md",
     "Captura de Tela 2026-05-01 às 14.10.26.png",
     "Captura de Tela 2026-05-01 às 14.09.41.png",
     "Captura de Tela 2026-05-01 às 14.08.56.png",
@@ -199,8 +201,8 @@
     "Captura de Tela 2026-05-01 às 14.05.40.png",
     "Captura de Tela 2026-05-01 às 13.58.48.png",
     "Captura de Tela 2026-05-01 às 13.22.40.png",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/evolucao por semana/Evolução semana 5-6.pdf",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/evolucao por semana/Evolução semana 3-4.md",
+    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/evolucao por semana/Evolução semana 5-6.pdf",
+    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/evolucao por semana/Evolução semana 3-4.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/3. Em Tecnologias Facilitadoras/anotações em md/4..md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/3. Em Tecnologias Facilitadoras/anotações em md/1..md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/2. Em sistemas celulares e opticos/Anotacoes em md/6. Comportamento da Luz no meio Atenuação, Dispersão e absorção.md",
@@ -228,8 +230,6 @@
     "calculo2.md",
     "python/Revisão Python/coddy/Listas/metodos de lista.md",
     "parte2ca.md",
-    "python/Revisão Python/coddy/Listas/multiplicando_elementos.py",
-    "python/Revisão Python/coddy/Listas/metodos_de_lista.py",
-    "python/Revisão Python/coddy/Listas/modificando_itens.py"
+    "python/Revisão Python/coddy/Listas/multiplicando_elementos.py"
   ]
 }

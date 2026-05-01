@@ -65,3 +65,8 @@ text = ' '.join(words)
 print(text)
 # "Hello World Python"
 ```
+
+Limpar lista:
+```python
+nome_lista.clear()
+```
