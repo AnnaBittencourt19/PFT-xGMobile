@@ -28,9 +28,12 @@ while (entrada_usuario != 5):
     elif entrada_usuario == 3:
         if len(despesas) > 0:
             total_expense = 0
+
             for despesa in despesas:
                 total_expense = total_expense + despesa
+
             average_expense = total_expense / len(despesas)
+
             print(f"Total expense: {total_expense}")
             print(f"Average expense: {average_expense}")
         else:
@@ -38,5 +41,7 @@ while (entrada_usuario != 5):
     elif entrada_usuario == 4:
         despesas.clear()
         print("All expenses cleared.")
-        
-print("Exiting the Daily Expense Tracker. Goodbye!")
+    elif entrada_usuario == 5:
+        print("Exiting the Daily Expense Tracker. Goodbye!")
+    else:
+        print("Invalid choice. Please try again.")
