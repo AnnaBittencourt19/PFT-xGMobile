@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calculo 2 parte 1.md",
+                "file": "Inteligência Artificial/4. Anotações aula.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "calculo 2 parte 1"
+              "title": "4. Anotações aula"
             }
           }
         ]
@@ -185,11 +185,13 @@
   },
   "active": "bb46773f347b7c3a",
   "lastOpenFiles": [
+    "Inteligência Artificial/Atividade estudo aprofundado da teoria de classificação.md",
+    "Inteligência Artificial/4. Anotações aula.md",
+    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/2. Em sistemas celulares e opticos/Anotacoes em md/8. Ó.md",
+    "calculo 2 parte 1.md",
     "python/Revisão Python/coddy/Listas/maestria_soma_de_elementos.py",
     "python/Revisão Python/coddy/funções/maestria_n_vezes.py",
     "python/Revisão Python/coddy/laços/maestria_continue.py",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/2. Em sistemas celulares e opticos/Anotacoes em md/8. Ó.md",
-    "calculo 2 parte 1.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/2. Em sistemas celulares e opticos/Anotacoes em md/7. Óptica em meios não guiados.md",
     "prints/Captura de Tela 2026-05-01 às 13.46.55.png",
     "python/Revisão Python/coddy/Listas/iterando strings.md",
@@ -219,8 +221,6 @@
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/2. Em sistemas celulares e opticos/Anotacoes em md/9. Óptica em Meios não Guiados x Óptica em Meios Guiados.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/2. Em sistemas celulares e opticos/Anotacoes em md/12. Redes WDM.md",
     "Artigos (leitura e resenha)/Artigo tutorial/insights parte 3.md",
-    "Inteligência Artificial/4. Anotações aula.md",
-    "Inteligência Artificial/Atividade estudo aprofundado da teoria de classificação.md",
     "Inteligência Artificial/1..md",
     "Inteligência Artificial/4. Anotações aula.pdf",
     "Inteligência Artificial/3. Anotações aula.md",
@@ -228,7 +228,6 @@
     "Inteligência Artificial/2..md",
     "python/Revisão Python/coddy/Listas/fatiamento de listas.md",
     "python/Revisão Python/coddy/Listas/slicing.py",
-    "python/Revisão Python/coddy/Listas/iterando_stringspt2.py",
     "python/Revisão Python/coddy/Listas/enumerate.md",
     "python/Revisão Python/coddy/Listas/Tupla.md"
   ]
