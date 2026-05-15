@@ -11,5 +11,7 @@
 ![[Captura de Tela 2026-05-15 às 14.58.15.png]]
 
 O que foi feito: 
-- Para acessar as anotações/resumos [clique aqui](https://github.com/AnnaBittencourt19/PFT-xGMobile/tree/main/cursos%20Inatel%20online/Trilha%201%20-%20Fundamentos%20Telecomunicacoes/1.%20Em%20r%C3%A1dio%20digital/em%20pdf)
-- Para acessar os ankis clique aqui [clique aqui](https://github.com/AnnaBittencourt19/PFT-xGMobile/tree/main/ankis)
+- Para acessar as anotações/resumos [clique aqui](https://github.com/AnnaBittencourt19/PFT-xGMobile/tree/163b60e32efc9b656987fdd100a95b2de570fc58/cursos%20Inatel%20online/Trilha%201%20-%20Fundamentos%20Telecomunicacoes/3.%20Em%20Tecnologias%20Facilitadoras/anota%C3%A7%C3%B5es%20em%20pdf)
+- Para acessar os ankis clique aqui [clique aqui](https://github.com/AnnaBittencourt19/PFT-xGMobile/tree/main/ankis) (em construção...)
+- [Prova]()
+- [Certificado](https://github.com/AnnaBittencourt19/PFT-xGMobile/blob/163b60e32efc9b656987fdd100a95b2de570fc58/cursos%20Inatel%20online/Trilha%201%20-%20Fundamentos%20Telecomunicacoes/certificados/Certificado_de_Fundamentos_em_Telecomunicacoes_C3.pdf)
