@@ -35,18 +35,54 @@
             "id": "f8fa704495ad1ae2",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "prints/Captura de Tela 2026-05-29 às 11.55.45.png"
+              },
+              "icon": "lucide-image",
+              "title": "Captura de Tela 2026-05-29 às 11.55.45"
+            }
+          },
+          {
+            "id": "ba4181d93ae5e830",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "prints/Captura de Tela 2026-05-29 às 11.56.39.png"
+              },
+              "icon": "lucide-image",
+              "title": "Captura de Tela 2026-05-29 às 11.56.39"
+            }
+          },
+          {
+            "id": "fafada459fe70fab",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "prints/Captura de Tela 2026-05-29 às 11.57.25.png"
+              },
+              "icon": "lucide-image",
+              "title": "Captura de Tela 2026-05-29 às 11.57.25"
+            }
+          },
+          {
+            "id": "1bd1a26b0045fe68",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "cursos Inatel online/Redes de acesso 5G/Curso 1 - Fundamentos de Redes de Acesso em 5G/Anotações em md/11. Estrutura de canais 5G (Canais Físico, transporte e lógicos).md",
+                "file": "cursos Inatel online/evolucao por semana/Evolução semana 10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Estrutura de canais 5G (Canais Físico, transporte e lógicos)"
+              "title": "Evolução semana 10"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -208,8 +244,21 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "f8fa704495ad1ae2",
+  "active": "1bd1a26b0045fe68",
   "lastOpenFiles": [
+    "cursos Inatel online/evolucao por semana/Evolução semana 10.pdf",
+    "Captura de Tela 2026-05-29 às 18.29.37.png",
+    "Captura de Tela 2026-05-29 às 17.26.23.png",
+    "Captura de Tela 2026-05-29 às 17.08.48.png",
+    "Captura de Tela 2026-05-29 às 16.48.06.png",
+    "Captura de Tela 2026-05-29 às 12.03.50.png",
+    "Captura de Tela 2026-05-29 às 11.58.00.png",
+    "cursos Inatel online/evolucao por semana/Evolução semana 8-9.md",
+    "cursos Inatel online/evolucao por semana/Evolução semana 10.md",
+    "prints/Captura de Tela 2026-05-29 às 11.55.45.png",
+    "prints/Captura de Tela 2026-05-29 às 11.57.25.png",
+    "prints/Captura de Tela 2026-05-29 às 11.56.39.png",
+    "cursos Inatel online/Redes de acesso 5G/Curso 1 - Fundamentos de Redes de Acesso em 5G/Anotações em md/11. Estrutura de canais 5G (Canais Físico, transporte e lógicos).md",
     "cursos Inatel online/Redes de acesso 5G/Curso 1 - Fundamentos de Redes de Acesso em 5G/Anotações em pdf/11. Estrutura de canais 5G (Canais Físico, transporte e lógicos).pdf",
     "cursos Inatel online/Redes de acesso 5G/Curso 1 - Fundamentos de Redes de Acesso em 5G/Anotações em md/10. Recursos físicos do 5G (tempo-frequência, prefixo cíclico, Numerologia flexível e estrutura de quadro).md",
     "cursos Inatel online/Redes de acesso 5G/Curso 1 - Fundamentos de Redes de Acesso em 5G/Anotações em pdf/10. Recursos físicos do 5G (tempo-frequência, prefixo cíclico, Numerologia flexível e estrutura de quadro).pdf",
@@ -230,18 +279,7 @@
     "cursos Inatel online/Redes de acesso 5G/Curso 1 - Fundamentos de Redes de Acesso em 5G/Anotações em md/2. Espectro 5G - Sub 6GHz & mmWAve.md",
     "cursos Inatel online/Redes de acesso 5G/Curso 1 - Fundamentos de Redes de Acesso em 5G/Anotações em pdf/2. Espectro 5G - Sub 6GHz & mmWAve.pdf",
     "cursos Inatel online/Redes de acesso 5G/Curso 1 - Fundamentos de Redes de Acesso em 5G/Anotações em md/1. Visão geral do 5G - Desafios, capacidades e releases 3GPP.md",
-    "cursos Inatel online/Redes de acesso 5G/Curso 1 - Fundamentos de Redes de Acesso em 5G/Anotações em pdf/1. Visão geral do 5G - Desafios, capacidades e releases 3GPP.pdf",
-    "cursos Inatel online/Redes de acesso 5G/Curso 1 - Fundamentos de Redes de Acesso em 5G/Anotações em md/11. Estrutura de canais 5G (Canais Físico, transporte e lógicos).md",
-    "Captura de Tela 2026-05-29 às 18.29.21.png",
-    "Captura de Tela 2026-05-29 às 18.23.16.png",
-    "Captura de Tela 2026-05-29 às 18.20.17.png",
-    "Captura de Tela 2026-05-29 às 18.16.24.png",
-    "Captura de Tela 2026-05-29 às 17.26.12.png",
-    "Captura de Tela 2026-05-29 às 17.23.13.png",
-    "Captura de Tela 2026-05-29 às 17.19.22.png",
-    "Captura de Tela 2026-05-29 às 17.17.47.png",
-    "Captura de Tela 2026-05-29 às 17.08.37.png",
-    "Captura de Tela 2026-05-29 às 17.08.21.png",
+    "prints/Captura de Tela 2026-05-29 às 18.29.21.png",
     "cursos Inatel online/Redes de acesso 5G/Curso 1 - Fundamentos de Redes de Acesso em 5G/An.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/2. Em sistemas celulares e opticos/Anotacoes em md/Prova.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/2. Em sistemas celulares e opticos/Anotacoes em md/15. Redes Ópticas Evolução e Tendência.md",
@@ -253,8 +291,6 @@
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/2. Em sistemas celulares e opticos/Anotacoes em md/9. Óptica em Meios não Guiados x Óptica em Meios Guiados.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/2. Em sistemas celulares e opticos/Anotacoes em md/8. Óptica em Meios Guiados Fibra Monomodo x Fibra Multimodo.md",
     "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/2. Em sistemas celulares e opticos/Anotacoes em md/7. Óptica em meios não guiados.md",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/2. Em sistemas celulares e opticos/Anotacoes em md/6. Comportamento da Luz no meio Atenuação, Dispersão e absorção.md",
-    "redes móveis/2. Receptor.md",
-    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/1. Em rádio digital/anotacoes em md/18. Modelagem de propagação.md"
+    "cursos Inatel online/Trilha 1 - Fundamentos Telecomunicacoes/2. Em sistemas celulares e opticos/Anotacoes em md/6. Comportamento da Luz no meio Atenuação, Dispersão e absorção.md"
   ]
 }
