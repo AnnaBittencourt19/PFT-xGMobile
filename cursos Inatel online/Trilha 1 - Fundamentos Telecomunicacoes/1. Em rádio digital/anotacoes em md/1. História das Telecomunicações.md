@@ -1,0 +1,11 @@
+- Código morse -> Telefone -> Transmissão de voz sem fio (ondas eletromagnéticas) -> Rádio
+- ARPANET: primeira internet (depois da criação da teoria dos grafos), conectava 4 universidades para compartilhamento de dados (comutação por pacotes)
+- 1933: 1G (primeira geração de telefonia móvel), AMPS analógico, o sinal analógico são muito suscetíveis a ruídos (interferências e perdas do sinal)
+- Com o avanço da eletrônica foi possível a transmissão de sinais digitais, utiliza as sequências binárias para representar dados o que o torna mais estável que o meio de transmissão analógico que variavam constantemente 
+- 2G (SMS) (dados em forma digital) -> World wide web (apenas para universidades e campo cientifico) -> internet comercial (criação do HTTP)(acesso universal a internet) -> Wifi (IEEE)
+- 3G (conexão a internet em dispositivos móveis) -> iPhone (Smartphones) -> 4G (maior velocidade de internet) -> Blockchain (criptomoedas, bitcoin)(estrutura de dados composta por cadeias de blocos, as cadeias registram dados de forma segura e imutável) -> Computação em nuvem -> 5G (mais velocidade e menor latência, otimizada para IoT)
+- 2020 - ???? (futuro)
+	- Expansão da computação nuvem
+	- IA e ML
+	- Metaverso
+	- 6G (para melhorar as experiências no metaverso e IoT)
