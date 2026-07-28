@@ -1,1 +1,0 @@
-![[Captura de Tela 2026-06-05 às 17.22.23.png]]
