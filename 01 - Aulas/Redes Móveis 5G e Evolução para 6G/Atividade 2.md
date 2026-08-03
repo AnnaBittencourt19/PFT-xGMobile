@@ -25,6 +25,7 @@ E1 liga CU-CP e CU-UP. É controle a CU-CP usa ela para configurar como a CU-UP 
 	- fronthaul: RU até DU
 	- midhaul: DU até CU, é onde correm F1-C e F1-U
 	- backhaul: CU até o Core, carrega N2 e N3 juntos
+- RU - DU - CU: gNB
 ## Etapa 2 — Caminho do controle
 UE -> RU -> DU -> CU-CP -> AMF
 - UE: liga, procura o SSB, sincroniza, faz random access e pede a conexão RRC. É ele que inicia o registro
