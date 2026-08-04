@@ -11,12 +11,14 @@
             "id": "68caad5345aa7a48",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "01 - Aulas/Redes Móveis 5G e Evolução para 6G/so_upf_e_dn_cenario_fabrica.png"
+                "file": "01 - Aulas/Redes Móveis 5G e Evolução para 6G/Aula 4 - Registro, autenticação e sessão PDU.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "so_upf_e_dn_cenario_fabrica"
+              "icon": "lucide-file",
+              "title": "Aula 4 - Registro, autenticação e sessão PDU"
             }
           }
         ]
@@ -184,15 +186,16 @@
   },
   "active": "68caad5345aa7a48",
   "lastOpenFiles": [
-    "01 - Aulas/Redes Móveis 5G e Evolução para 6G/quadrinhos_v2_registro_5gc_seis_quadros.png",
-    "01 - Aulas/Redes Móveis 5G e Evolução para 6G/Atividade 2.pdf",
     "01 - Aulas/Redes Móveis 5G e Evolução para 6G/Atividade 3.md",
-    "01 - Aulas/Redes Móveis 5G e Evolução para 6G/explicação (claude).md",
-    "01 - Aulas/Redes Móveis 5G e Evolução para 6G/Atividade 3 - UPF e DN.pdf",
-    "01 - Aulas/Redes Móveis 5G e Evolução para 6G/so_upf_e_dn_cenario_fabrica.png",
-    "01 - Aulas/Redes Móveis 5G e Evolução para 6G/Atividade 3 - UPF e DN.md",
-    "01 - Aulas/Redes Móveis 5G e Evolução para 6G/Aula 3.md",
+    "01 - Aulas/Redes Móveis 5G e Evolução para 6G/Aula 4 - Registro, autenticação e sessão PDU.md",
     "01 - Aulas/Redes Móveis 5G e Evolução para 6G/Atividade 3.pdf",
+    "01 - Aulas/Redes Móveis 5G e Evolução para 6G/Aula 3.md",
+    "01 - Aulas/Redes Móveis 5G e Evolução para 6G/so_upf_e_dn_cenario_fabrica.png",
+    "01 - Aulas/Redes Móveis 5G e Evolução para 6G/quadrinhos_v2_registro_5gc_seis_quadros.png",
+    "01 - Aulas/Redes Móveis 5G e Evolução para 6G/explicação (claude).md",
+    "01 - Aulas/Redes Móveis 5G e Evolução para 6G/Atividade 2.pdf",
+    "01 - Aulas/Redes Móveis 5G e Evolução para 6G/Atividade 3 - UPF e DN.pdf",
+    "01 - Aulas/Redes Móveis 5G e Evolução para 6G/Atividade 3 - UPF e DN.md",
     "03 - Pesquisa e Escrita/Artigo Tutorial/insights parte 2.md",
     "00 - Anexos/Pasted image 20260803101954.png",
     "00 - Anexos/Captura de Tela 2026-08-03 às 08.53.27.png",

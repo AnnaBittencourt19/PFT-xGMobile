@@ -107,6 +107,10 @@
 
 
 - Só UPF no plano de usuário 
-Extra (Claude que fez):
+Extra (Claude que fez as imagens):
   ![[quadrinhos_v2_registro_5gc_seis_quadros.png]]
-  
+### Estudos UPF --- DN
+![[so_upf_e_dn_cenario_fabrica.png]]
+- Partes anteriores: Definem
+- UPF: Executa
+- Esquecemos de falar N3-GTP-U

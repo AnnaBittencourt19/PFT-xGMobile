@@ -1,3 +1,5 @@
+Feito por IA para exemplificar (entender melhor com exemplos de um hotel)
+Diagramas para melhor entendimento
 ## O que a atividade está cobrando
 A atividade tem três partes que parecem repetidas mas não são. O exercício 1 pede para eu descrever cada função por seis ângulos, o exercício 2 me obriga a comprimir isso numa linha de tabela, e o exercício 3 testa se eu sei separar as confusões clássicas. A coluna que carrega a atividade inteira é a última, "não faz". Decorar que o AMF cuida de mobilidade é fácil, o que separa quem entendeu de quem decorou é saber que o AMF não toca no pacote da aplicação.
 ## Mapa geral do 5G Core
@@ -193,10 +195,3 @@ As duas primeiras perguntas são de reconhecimento direto, SMF e UPF, e não tê
 - UDM x AUSF separa dado de procedimento. Quem guarda não é quem verifica
 - a importância do NRF só aparece se eu aceitar que a topologia do 5GC é dinâmica. Se eu ainda penso em caixas fixas, o NRF parece inútil
 - a N4 é a pergunta que resume a aula, porque ela é o ponto exato onde o plano de controle encosta no plano de usuário. É a única interface da atividade que atravessa a fronteira entre os dois
-## Checando se entendi
-Se eu conseguir responder essas sem olhar, está de pé:
-- de quem é a decisão de QoS, e de quem é a execução
-- por que o pacote de vídeo não passa pelo AMF
-- o que aconteceria se o NRF saísse do ar
-- por que faz diferença a UPF estar no edge, e não faz diferença o PCF estar
-- quais funções desaparecem se a rede for NSA em vez de SA
